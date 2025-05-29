@@ -843,7 +843,7 @@ class ChatApp:
             "- Movies\n"
             "- TV Shows\n"
             "- Books\n"
-            "(Click the games in order to fix the interface)\n"
+            "(Warning: When the application first opens, the interface might not display correctly. To fix this, please click on the buttons in the following order: Chat, Trivia, Connect Four, Tic Tac Toe, UNO, and Help. This will properly load and reset the layout.)\n"
             "Type 'help' for commands.\n"
         )
         self.append_text(welcome_text)
